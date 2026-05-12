@@ -103,7 +103,7 @@ However, each certification approaches these topics from a different angle. This
 
 \## visuals
 
-&#x20; cross-certification-bridge-matrix-linkedin-infographic.png
+&#x20; cross-certification-bridge-matrix.png
 
 ---
 
