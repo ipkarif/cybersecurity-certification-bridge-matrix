@@ -96,25 +96,25 @@ However, each certification approaches these topics from a different angle. This
 
 ```text
 
-## matrix/
+\## matrix/
 
 &#x20; cross-certification-bridge-matrix.xlsx
 
 
 
-## visuals/
+\## visuals/
 
 &#x20; cross-certification-bridge-matrix-linkedin-infographic.png
 
 ---
 
-## Preview
+\## Preview
 
 ![Cross-Certification Bridge Matrix Infographic](visuals/cross-certification-bridge-matrix-linkedin-infographic.png)
 
 ---
 
-## Important Note
+\## Important Note
 
 This matrix is a **conceptual learning map**, not an official exam-objective mapping.
 
@@ -126,7 +126,7 @@ It is intended for:
 
 ---
 
-## Author
+\## Author
 
 **Arif Khan**  
 IT & Cybersecurity Professional | Security Operations | Risk-Aware IT Leadership  
