@@ -106,3 +106,31 @@ visuals/
 
 &#x20; cross-certification-bridge-matrix-linkedin-infographic.png
 
+---
+
+## Preview
+
+![Cross-Certification Bridge Matrix Infographic](visuals/cross-certification-bridge-matrix-linkedin-infographic.png)
+
+---
+
+## Important Note
+
+This matrix is a **conceptual learning map**, not an official exam-objective mapping.
+
+It is intended for:
+- study planning
+- curriculum discussion
+- certification pathway thinking
+- connecting foundational, offensive, defensive, governance, and cloud security perspectives
+
+---
+
+## Author
+
+**Arif Khan**  
+IT & Cybersecurity Professional | Security Operations | Risk-Aware IT Leadership  
+
+- LinkedIn: linkedin.com/in/arifkhan31
+- GitHub: github.com/ipkarif
+
