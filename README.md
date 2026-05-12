@@ -96,13 +96,13 @@ However, each certification approaches these topics from a different angle. This
 
 ```text
 
-matrix/
+## matrix/
 
 &#x20; cross-certification-bridge-matrix.xlsx
 
 
 
-visuals/
+## visuals/
 
 &#x20; cross-certification-bridge-matrix-linkedin-infographic.png
 
